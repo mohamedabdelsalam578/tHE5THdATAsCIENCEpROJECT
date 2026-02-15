@@ -17,3 +17,19 @@ These datasets contains Data about Vechiles flow and passenger flow all around c
 ## Why we Choose these datasets
 
 We were thinking about the congestition problem in Cairo and the reason behind it, By analyising it to pin point the problem in regards of diffrent Point of views, and exploring hidden patterns.
+
+## Questions
+
+1. Which areas have a higher morning alightning, and why are they higher? "Maybe there is a pattern".
+2. In which areas does the public transport vehicles have high or low passenger per vehicle ratio.
+3. Does people acually follow the drop points?
+4. When does the diffrence between formal and informal arise. "When do people prefer the other".
+5. The relation between population density and the terminals location, Does it matter?.
+6. Does providing more routes means a higher passenger count?
+7. When does there is a huge diffrence between Morning boarding and Evening boarding?
+8. Is there a relation between the boarding areas itself? "An area with a higher passengers count means also the neighboring areas have a high passenger count?"
+9. Is there areas with very high populatiuon but low boardings? "And if there is, is it due to a pattern or deficiency".
+10. What is the amount of vechiles that return empty from there terminal? and why are they empty or have a low passenger count?
+11. Why is there underused terminals?
+12. Is there terminals that have a certain type of vehicle type dominant? "Most people choose it over other types"
+    
