@@ -38,4 +38,6 @@ We were thinking about the congestition problem in Cairo and the reason behind i
 
 
 NEW 2. Is there a relation between population density and the passenger per vehicle ratio at terminals? (Do high population areas with low ratio reveal a pattern of communities that rely on cars?)
+NEW 10.  What is the relation between the number of vehicles that return empty and the location of the terminal
+NEW 11.  What is the relation between terminals that are not used and the routes it provides
     
