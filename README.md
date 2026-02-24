@@ -34,4 +34,8 @@ We were thinking about the congestition problem in Cairo and the reason behind i
 10. What is the amount of vechiles that return empty from there terminal? and why are they empty or have a low passenger count?//////
 11. Why is there underused terminals?///////////
 12. Is there terminals that have a certain type of vehicle type dominant? "Most people choose it over other types"////////
+
+
+
+NEW 2. Is there a relation between population density and the passenger per vehicle ratio at terminals? (Do high population areas with low ratio reveal a pattern of communities that rely on cars?)
     
