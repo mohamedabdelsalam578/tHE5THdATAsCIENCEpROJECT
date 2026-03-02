@@ -37,10 +37,15 @@ We were thinking about the congestition problem in Cairo and the reason behind i
 11. Why is there underused terminals?///////////
 12. Is there terminals that have a certain type of vehicle type dominant? "Most people choose it over other types"////////
 
-
-NEW 1.Is there a relationship between morning alighting counts at a stop and the job accessibility score (jobs_count_access_60mins) of its surrounding area?
+NEW 1. Is there a relationship between morning alighting counts at a stop and the job accessibility score (jobs_count_access_60mins) of its surrounding area?
 
 NEW 2. Is there a relation between population density and the passenger per vehicle ratio at terminals? (Do high population areas with low ratio reveal a pattern of communities that rely on cars?)
-NEW 10.  What is the relation between the number of vehicles that return empty and the location of the terminal
-NEW 11.  What is the relation between terminals that are not used and the routes it provides
+
+NEW 7. Is there a realation between Morning and Evening boarding, while knowing the route?
+
+NEW 10. What is the relation between the number of vehicles that return empty and the location of the terminal
+
+NEW 11. What is the relation between terminals that are not used and the routes it provides
+
+NEW 12. Is there a realtion between the vehicle type and the route length?
     
